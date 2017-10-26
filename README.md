@@ -5,4 +5,4 @@ Project 2 - Constraint Satisfaction Problem - Project that solves various CSP pr
 
 Project 3- Dynamic Bayesian Network Project that involves pacman trying to eat ghosts using exact and approximate inferences using bayes net. Also uses joint particle filters to be able to track ghosts.
 
-Project 4 -Project that create a Neural Network
+Project 4 -Project that creates a Neural Network
